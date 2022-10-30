@@ -1,6 +1,15 @@
 # GetAround
 Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
 
+within the directory : dashboard_delay
+
+docker build . -t dashboard
+docker run -it -v "$(pwd):/home/app" -p 4000:80 -e PORT=80 dashboard
+
+heroku create getaround-dasboard-delay-sm
+heroku container:push web -a getaround-dasboard-delay-sm
+heroku container:release web -a getaround-dasboard-delay-sm
+heroku open -a getaround-dasboard-delay-sm
 
 
 
