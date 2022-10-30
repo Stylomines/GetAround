@@ -1,6 +1,10 @@
 # GetAround
 Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
 
+# Dashboard
+
+https://getaround-dasboard-delay-sm.herokuapp.com/
+
 within the directory : dashboard_delay
 
 docker build . -t dashboard
