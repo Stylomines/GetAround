@@ -13,9 +13,9 @@ https://getaround-dasboard-delay-sm.herokuapp.com/
 
 within the directory : dashboard_delay
 
-Data : get_around_delay_analysis.xlsx
++ Data : get_around_delay_analysis.xlsx
 
-Deployment :
++ Deployment :
   - Build docker image and run localy:
       * docker build . -t you_image_dashboard
       * docker run -it -v "$(pwd):/home/app" -p 4000:80 -e PORT=80 you_image_dashboard
@@ -35,10 +35,10 @@ https://app-api-getaround.herokuapp.com/docs
 
 within the directory : get_around_pricing
 
-Data : get_around_pricing_project.csv
-Model ML : model_lr.joblib
++ Data : get_around_pricing_project.csv
++ Model ML : model_lr.joblib
 
-Deployment :
++ Deployment :
 
   - Build docker image and run localy:
       * docker build . -t your_image_api
