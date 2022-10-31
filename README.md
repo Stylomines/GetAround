@@ -11,7 +11,7 @@ Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et aut
 link : https://getaround-dasboard-delay-sm.herokuapp.com/
 
 
-Within the directory : dashboard_delay
+Within the directory : Dashboard_delay
 
 + Data : get_around_delay_analysis.xlsx
 
