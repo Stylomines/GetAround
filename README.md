@@ -3,7 +3,7 @@ Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et aut
 
 * email : sylvain_mothes@yahoo.fr
 * video link : https://share.vidyard.com/watch/gw3sufoSP1ypyDUjnomoKB?
-* repository's URL :
+* repository's URL : https://github.com/Stylomines/GetAround
 
 
 # Dashboard
