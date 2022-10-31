@@ -1,8 +1,8 @@
 # GetAround
 Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
 
-email : sylvain_mothes@yahoo.fr
-video link : https://share.vidyard.com/watch/gw3sufoSP1ypyDUjnomoKB?
+* email : sylvain_mothes@yahoo.fr
+* video link : https://share.vidyard.com/watch/gw3sufoSP1ypyDUjnomoKB?
 
 
 # Dashboard
